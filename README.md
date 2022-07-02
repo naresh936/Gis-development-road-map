@@ -1,4 +1,4 @@
-# GIS Programming Roadmap 01
+# GIS Programming Roadmap for beginners 
 <p align="center">
   <img src="https://gisgeography.com/wp-content/uploads/2016/03/gis-programming-in-python-678x322.png" alt="Image of Coding">
 </p>
